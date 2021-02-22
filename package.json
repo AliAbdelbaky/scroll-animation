@@ -1,0 +1,28 @@
+{
+  "name": "animation-with-scroll",
+  "version": "1.0.0",
+  "description": "animtaionWithGsap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ali Abdelbaky",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-livereload": "^4.0.2",
+    "gulp-minify": "^3.1.0",
+    "gulp-notify": "^3.2.0",
+    "gulp-pug": "^4.0.1",
+    "gulp-sass": "^4.1.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-uglify": "^3.0.2",
+    "i": "^0.3.6",
+    "npm": "^6.14.11"
+  },
+  "dependencies": {
+    "static-server": "^2.2.1"
+  }
+}
